@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+.titlecontainer {
+  padding-top: 100px;
+  padding-left: 190px;
+}
+.h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+}
+.p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  height: 140px;
+  width: 540px;
+}
+.elementscard {
+  display: flex;
+  padding-top: 80px;
+  padding-right: 30px;
+  justify-content: flex-start;
+  flex-direction: row-reverse;
+}
+.p1 {
+  width: 255px;
+}
+.image {
+  padding-top: 100px;
+  padding-left: 100px;
+}
